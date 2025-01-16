@@ -2,7 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-barcelos-morais-junior-36141221/)
 
-![flaviobarcelod GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviobarcelod&show_icons=true&theme=dracula&count_private=true)
+![flaviobarcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviobarcelos&show_icons=true&theme=dracula&count_private=true)
+
+![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviobarcelos&layout=compact&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
