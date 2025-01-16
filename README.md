@@ -1,4 +1,4 @@
-## Olá! Eu sou o Flávio Barcelos 🖐️🤓
+## Olá! Eu sou o Flávio Barcelos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-barcelos-morais-junior-36141221/)
 
